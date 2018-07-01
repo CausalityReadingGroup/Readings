@@ -1,4 +1,4 @@
-# Resources on causal inference
+# Resources on Causal Inference
 
 
 ## Discussions
@@ -52,3 +52,6 @@ link: https://mitpress.mit.edu/books/elements-causal-inference
 
 Page 44
 > In other words, is the structure identifiable from the joint distribution? The following known result shows that the answer is “no” if one allows for general SCMs.
+
+Page 73
+> Within the toy scenario of a bijective deterministic causal relation (see Sec- tion 4.1.7), Janzing and Scho ̈lkopf [2015] prove that whenever Pcause and Peffect|cause are independent in the sense of (4.10), then SSL indeed outperforms supervised learning in the anticausal direction but not in the causal direction. The idea is that SSL employs the dependence (4.11) for an improved interpolation algorithm.
