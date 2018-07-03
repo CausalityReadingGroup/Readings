@@ -13,3 +13,8 @@ with Stephan Hartmann and Reuben Stern
 
 
 ## Books
+
+### Judea Pearl
+
+#### The Book of Why
+
