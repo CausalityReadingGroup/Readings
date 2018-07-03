@@ -5,7 +5,7 @@
 
 ## Papers
 
-### Benjmanin Eva
+### Benjamin Eva
 
 #### The Similarity of Causal Structures 
 
