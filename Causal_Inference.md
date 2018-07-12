@@ -13,6 +13,12 @@ link: http://causality.cs.ucla.edu/blog/index.php/2018/06/15/a-statisticians-re-
 
 > It would be nice if we could alert practicing statisticians, deeply invested in the language of statistics to the possibility that paradigm shifts can occur even in the 21st century, and that centuries of unproductive debates do not make such shifts impossible.
 
+### Yani Serrousi
+
+#### WHY YOU SHOULD STOP WORRYING ABOUT DEEP LEARNING AND DEEPEN YOUR UNDERSTANDING OF CAUSALITY INSTEAD
+
+link: 
+https://yanirseroussi.com/2016/02/14/why-you-should-stop-worrying-about-deep-learning-and-deepen-your-understanding-of-causality-instead/
 
 ## Papers
 
