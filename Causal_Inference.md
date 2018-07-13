@@ -67,5 +67,7 @@ Page 73
 
 link: https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/
 
+python example code: https://github.com/jrfiedler/causal_inference_python_code
+
 Description:
 > My colleague Jamie Robins and I are working on a book that provides a cohesive presentation of concepts of, and methods for, causal inference. Much of this material is currently scattered across journals in several disciplines or confined to technical articles. We expect that the book will be of interest to anyone interested in causal inference, e.g., epidemiologists, statisticians, psychologists, economists, sociologists, political scientists, computer scientists… The book is divided in 3 parts of increasing difficulty: causal inference without models, causal inference with models, and causal inference from complex longitudinal data.
