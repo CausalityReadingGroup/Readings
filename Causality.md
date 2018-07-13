@@ -24,3 +24,11 @@ http://docs.wixstatic.com/ugd/94d82d_7d9cc0b0d372493ebbf9c6182b4e5545.pdf
 
 #### The Book of Why
 
+
+
+###
+
+####
+
+link: https://www.amazon.com/Causality-Philosophical-Theory-Scientific-Practice/dp/0199662673
+
