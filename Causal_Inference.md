@@ -24,7 +24,6 @@ https://yanirseroussi.com/2016/02/14/why-you-should-stop-worrying-about-deep-lea
 
 ### Judea Pearl
 
-
 #### Theoretical Impediments to Machine Learning With Seven Sparks from the Causal Revolution
 
 link: https://arxiv.org/pdf/1801.04016.pdf
@@ -61,3 +60,12 @@ Page 44
 
 Page 73
 > Within the toy scenario of a bijective deterministic causal relation (see Sec- tion 4.1.7), Janzing and Scho ̈lkopf [2015] prove that whenever Pcause and Peffect|cause are independent in the sense of (4.10), then SSL indeed outperforms supervised learning in the anticausal direction but not in the causal direction. The idea is that SSL employs the dependence (4.11) for an improved interpolation algorithm.
+
+### Hernan and Robins
+
+#### Causal Inference Book
+
+link: https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/
+
+Description:
+> My colleague Jamie Robins and I are working on a book that provides a cohesive presentation of concepts of, and methods for, causal inference. Much of this material is currently scattered across journals in several disciplines or confined to technical articles. We expect that the book will be of interest to anyone interested in causal inference, e.g., epidemiologists, statisticians, psychologists, economists, sociologists, political scientists, computer scientists… The book is divided in 3 parts of increasing difficulty: causal inference without models, causal inference with models, and causal inference from complex longitudinal data.
